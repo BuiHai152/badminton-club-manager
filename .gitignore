@@ -1,0 +1,12 @@
+node_modules
+dist
+.pgdata
+.pnpm-store
+.npm-cache
+.chrome-profile*
+.edge-profile
+.tmp
+*.log
+.DS_Store
+.env
+!/.env.example
